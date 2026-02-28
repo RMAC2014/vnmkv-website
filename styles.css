@@ -1,0 +1,46 @@
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.header {
+    background: #0044cc;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.nav {
+    background: #333;
+    color: white;
+    padding: 15px;
+}
+
+.nav a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    background: #575757;
+}
+
+.footer {
+    background: #0044cc;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+h1, h2, h3 {
+    font-family: 'Arial', sans-serif;
+}
+
+p {
+    font-family: 'Georgia', serif;
+    line-height: 1.6;
+}
